@@ -1,4 +1,4 @@
-treatment_id;procedures_id
-0;12
-1;10
-2;15
+treatment_id,procedures_id
+0,12
+1,10
+2,15

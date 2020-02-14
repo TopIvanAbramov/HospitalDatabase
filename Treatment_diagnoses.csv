@@ -1,4 +1,4 @@
-treatment_id;diagnoses_id
-0;6
-1;2
-2;3
+treatment_id,diagnoses_id
+0,6
+1,2
+2,3
