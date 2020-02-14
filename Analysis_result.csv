@@ -1,3 +1,4 @@
+id;patient_ssn;type;result;date
 0;101;lumbar puncture;Medical result;2016-05-16
 1;101;kidney function test;Medical result;2015-06-06
 2;103;lumbar puncture;Medical result;2016-10-08
